@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dimitridewit.github.io/precache-manifest.04083c030d1a8b51aa423a9d9c55d676.js"
+  "/burnoutsquad/precache-manifest.fd06044d13818bec2add157c93e1b6ce.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dimitridewit.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/burnoutsquad/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
