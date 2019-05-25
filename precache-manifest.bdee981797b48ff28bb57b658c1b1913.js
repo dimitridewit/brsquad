@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/burnoutsquad/static/js/runtime~main.36e9e8d2.js"
   },
   {
-    "revision": "3648c6239d9f596d3c99",
-    "url": "/burnoutsquad/static/js/main.3648c623.chunk.js"
+    "revision": "4ce7e77c282a2156112c",
+    "url": "/burnoutsquad/static/js/main.4ce7e77c.chunk.js"
   },
   {
     "revision": "4a34e45d34cafb7623bd",
     "url": "/burnoutsquad/static/js/1.4a34e45d.chunk.js"
   },
   {
-    "revision": "3648c6239d9f596d3c99",
+    "revision": "4ce7e77c282a2156112c",
     "url": "/burnoutsquad/static/css/main.75b12796.chunk.css"
   },
   {
-    "revision": "8793e5b675cf77f4b5bcdf1486840352",
+    "revision": "165c9c0d550f093eadcad84d3ab2e56a",
     "url": "/burnoutsquad/index.html"
   }
 ];
