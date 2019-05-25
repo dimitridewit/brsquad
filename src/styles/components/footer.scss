@@ -1,0 +1,23 @@
+.app-footer {
+  p {
+    font-size: 16px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin: 0 4px;
+    }
+
+    a {
+      color: $link-pink;
+    }
+  }
+
+  .copynicht {
+    font-size: 12px;
+  }
+}
