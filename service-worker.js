@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/burnoutsquad/precache-manifest.bdee981797b48ff28bb57b658c1b1913.js"
+  "/burnoutsquad/precache-manifest.af9c73e01a0caedb47219bebbcf70062.js"
 );
 
 workbox.clientsClaim();

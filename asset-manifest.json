@@ -1,14 +1,15 @@
 {
-  "main.css": "/burnoutsquad/static/css/main.75b12796.chunk.css",
-  "main.js": "/burnoutsquad/static/js/main.4ce7e77c.chunk.js",
-  "main.js.map": "/burnoutsquad/static/js/main.4ce7e77c.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/burnoutsquad/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/burnoutsquad/static/js/1.4a34e45d.chunk.js.map",
+  "main.css": "/burnoutsquad/static/css/main.14b4a5e0.chunk.css",
+  "main.js": "/burnoutsquad/static/js/main.613b7386.chunk.js",
+  "main.js.map": "/burnoutsquad/static/js/main.613b7386.chunk.js.map",
+  "static/js/1.604dacc9.chunk.js": "/burnoutsquad/static/js/1.604dacc9.chunk.js",
+  "static/js/1.604dacc9.chunk.js.map": "/burnoutsquad/static/js/1.604dacc9.chunk.js.map",
   "runtime~main.js": "/burnoutsquad/static/js/runtime~main.36e9e8d2.js",
   "runtime~main.js.map": "/burnoutsquad/static/js/runtime~main.36e9e8d2.js.map",
   "static/media/logo.svg": "/burnoutsquad/static/media/logo.5d5d9eef.svg",
-  "static/css/main.75b12796.chunk.css.map": "/burnoutsquad/static/css/main.75b12796.chunk.css.map",
+  "static/media/App.scss": "/burnoutsquad/static/media/PlayfairDisplay-Bold.a12b42c9.ttf",
+  "static/css/main.14b4a5e0.chunk.css.map": "/burnoutsquad/static/css/main.14b4a5e0.chunk.css.map",
   "index.html": "/burnoutsquad/index.html",
-  "precache-manifest.bdee981797b48ff28bb57b658c1b1913.js": "/burnoutsquad/precache-manifest.bdee981797b48ff28bb57b658c1b1913.js",
+  "precache-manifest.af9c73e01a0caedb47219bebbcf70062.js": "/burnoutsquad/precache-manifest.af9c73e01a0caedb47219bebbcf70062.js",
   "service-worker.js": "/burnoutsquad/service-worker.js"
 }
